@@ -1,0 +1,28 @@
+{
+    "name": "quynguyen3490/countonline",
+    "version": "1.0",
+    "description": "Count online!",
+    "keywords":[
+        "laravel",
+        "count",
+        "online"
+    ],
+    "homepage":"https://github.com/quynguyen3490/countonline",
+    "authors": [
+        {
+            "name": "Quy Nguyen",
+            "email": "quynguyen3490@gmail.com"
+        }
+    ],
+    "license": "Quy Nguyen License",
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Quynguyen\\Countonline\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
